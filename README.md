@@ -3,7 +3,7 @@
 
 [Set up](https://github.com/AlisonJD/RTACourse/blob/main/set_up.ipynb)
 
-0. Why this course? The use case
+0. [Why this course? The use case](https://github.com/AlisonJD/RTACourse/blob/main/Why_this_course.ipynb)
 1. The Software:ClickHouse and Tinybird
 2.  Modern Computer Hardware
 3. Use the Right Database for the Job
