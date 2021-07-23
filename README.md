@@ -16,7 +16,7 @@
 10. Main Takeways
 11. Example Datasets
 - ClickHouse Vists and Hits
-- ClickHouse Recipes
+- [ClickHouse Recipes](https://github.com/AlisonJD/RTACourse/blob/main/ClickHouse_Recipes.ipynb)
 - [New YorkCity Taxi Trips](https://github.com/AlisonJD/RTACourse/blob/main/New_York_City_Taxi_Trip_Datasets.ipynb)
 - Tinybird Events
 - Tinybird Products
