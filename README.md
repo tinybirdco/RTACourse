@@ -10,7 +10,7 @@
 4. Source Data and Ingestion
 5. Data Storage Inside the Analytics Database
 6. Querying
-7. [Best Practices for Views](https://github.com/AlisonJD/RTACourse/blob/main/6_Best_Practice_for_Views.ipynb)
+7. [Best Practices for Views](https://github.com/AlisonJD/RTACourse/blob/main/Best_Practices_for_Views.ipynb)
 8. Exposing the Data
 9. Metrics
 10. Scaling-up - How to Size Clusters Correctly
