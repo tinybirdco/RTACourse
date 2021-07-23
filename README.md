@@ -5,7 +5,7 @@
 
 0. [Why this course? The use case](https://github.com/AlisonJD/RTACourse/blob/main/Why_this_course.ipynb)
 1. [The Software - ClickHouse and Tinybird - and Hardware](https://github.com/AlisonJD/RTACourse/blob/main/Software_and_Hardware.ipynb)
-2. Use the Right Database for the Job
+2. [Use the Right Database](https://github.com/AlisonJD/RTACourse/blob/main/Use_the_Right_Database.ipynb)
 3. Source Data and Ingestion
 4. Data Storage Inside the Analytics Database
 5. Querying
