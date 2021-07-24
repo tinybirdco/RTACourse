@@ -1,3 +1,5 @@
+<a href="https://www.tinybird.co/" target="_parent"><img src="https://uploads-ssl.webflow.com/6048c50adefe73fe3bc6c51b/6048eb77ca9dde7b528e4354_Logo%20Navbar.svg" alt="Tinybird"/></a>           <a href="https://colab.research.google.com/github/AlisonJD/RTACourse/blob/main/Data_Storage_Inside_the_Analytics_Database.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 # Principles of Real-Time Analytics
 ## Javi Santana and the Tinybird team
 
@@ -8,7 +10,7 @@
 2. [Use the Right Database](https://github.com/AlisonJD/RTACourse/blob/main/Use_the_Right_Database.ipynb)
 3. [Source Data and Ingestion](https://github.com/AlisonJD/RTACourse/blob/main/Source_Data_and_Ingestion.ipynb)
 4. [Data Storage Inside the Analytics Database](https://github.com/AlisonJD/RTACourse/blob/main/Data_Storage_Inside_the_Analytics_Database.ipynb)
-5. Querying
+5. [Querying](https://github.com/AlisonJD/RTACourse/blob/main/Querying.ipynb)
 6. [Best Practices for Views](https://github.com/AlisonJD/RTACourse/blob/main/Best_Practices_for_Views.ipynb)
 7. Exposing the Data
 8. Metrics
