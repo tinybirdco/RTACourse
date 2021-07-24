@@ -1,7 +1,7 @@
 # Principles of Real-Time Analytics
 ## Javi Santana and the Tinybird team
 
-[Set up](https://github.com/AlisonJD/RTACourse/blob/main/set_up.ipynb)
+[Getting Started](https://github.com/AlisonJD/RTACourse/blob/main/Getting_Started.ipynb)
 
 0. [Why this course? The use case](https://github.com/AlisonJD/RTACourse/blob/main/Why_this_course.ipynb)
 1. [The Software - ClickHouse and Tinybird - and Hardware](https://github.com/AlisonJD/RTACourse/blob/main/Software_and_Hardware.ipynb)
