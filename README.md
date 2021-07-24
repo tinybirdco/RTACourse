@@ -1,4 +1,4 @@
-<a href="https://www.tinybird.co/" target="_parent"><img src="https://uploads-ssl.webflow.com/6048c50adefe73fe3bc6c51b/6048eb77ca9dde7b528e4354_Logo%20Navbar.svg" alt="Tinybird"/></a>           <a href="https://colab.research.google.com/github/AlisonJD/RTACourse/blob/main/Data_Storage_Inside_the_Analytics_Database.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://www.tinybird.co/" target="_parent"><img src="https://uploads-ssl.webflow.com/6048c50adefe73fe3bc6c51b/6048eb77ca9dde7b528e4354_Logo%20Navbar.svg" alt="Tinybird"/></a>
 
 # Principles of Real-Time Analytics
 ## Javi Santana and the Tinybird team
@@ -17,8 +17,10 @@
 9. Scaling-up - How to Size Clusters Correctly
 10. Main Takeways
 11. Example Datasets
+- [Tinybird Events](https://github.com/AlisonJD/RTACourse/blob/main/Tinybird_Events_Dataset.ipynb)
+- [Tinybird Products](https://github.com/AlisonJD/RTACourse/blob/main/Tinybird_Products_Dataset.ipynb)
+- [New YorkCity Taxi Trips](https://github.com/AlisonJD/RTACourse/blob/main/New_York_City_Taxi_Trip_Datasets.ipynb)
 - ClickHouse Vists and Hits
 - [ClickHouse Recipes](https://github.com/AlisonJD/RTACourse/blob/main/ClickHouse_Recipes.ipynb)
-- [New YorkCity Taxi Trips](https://github.com/AlisonJD/RTACourse/blob/main/New_York_City_Taxi_Trip_Datasets.ipynb)
-- Tinybird Events
-- Tinybird Products
+
+
