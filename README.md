@@ -11,10 +11,10 @@
 5. [Data Storage Inside the Analytics Database](https://github.com/AlisonJD/RTACourse/blob/main/Data_Storage_Inside_the_Analytics_Database.ipynb)
 6. [Querying](https://github.com/AlisonJD/RTACourse/blob/main/Querying.ipynb)
 7. [Best Practices for Views](https://github.com/AlisonJD/RTACourse/blob/main/Best_Practices_for_Views.ipynb)
-8. Exposing the Data
-9. Metrics
-10. Scaling-up - How to Size Clusters Correctly
-11. Main Takeways
+8. [Exposing the Data](https://github.com/AlisonJD/RTACourse/blob/main/Exposing_the_Data.ipynb)
+9. [Metrics](https://github.com/AlisonJD/RTACourse/blob/main/Metrics.ipynb)
+10. [Scaling-up - How to Size Clusters Correctly](https://github.com/AlisonJD/RTACourse/blob/main/Scaling_Up.ipynb)
+11. [Main Takeaways](https://github.com/AlisonJD/RTACourse/blob/main/Main_Takeaways.ipynb)
 12. Example Datasets
 - [Tinybird Events](https://github.com/AlisonJD/RTACourse/blob/main/Tinybird_Events_Dataset.ipynb)
 - [Tinybird Products](https://github.com/AlisonJD/RTACourse/blob/main/Tinybird_Products_Dataset.ipynb)
