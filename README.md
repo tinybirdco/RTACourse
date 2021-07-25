@@ -13,7 +13,7 @@
 7. [Best Practices for Views](https://github.com/AlisonJD/RTACourse/blob/main/Best_Practices_for_Views.ipynb)
 8. [Exposing the Data](https://github.com/AlisonJD/RTACourse/blob/main/Exposing_the_Data.ipynb)
 9. [Metrics](https://github.com/AlisonJD/RTACourse/blob/main/Metrics.ipynb)
-10. [Scaling-up - How to Size Clusters Correctly](https://github.com/AlisonJD/RTACourse/blob/main/Scaling_Up.ipynb)
+10. [Scaling-up - How to Size Clusters Correctly](https://github.com/AlisonJD/RTACourse/blob/main/Scaling_up.ipynb)
 11. [Main Takeaways](https://github.com/AlisonJD/RTACourse/blob/main/Main_Takeaways.ipynb)
 12. Example Datasets
 - [Tinybird Events](https://github.com/AlisonJD/RTACourse/blob/main/Tinybird_Events_Dataset.ipynb)
