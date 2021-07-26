@@ -15,9 +15,12 @@
 9. [Metrics](https://github.com/AlisonJD/RTACourse/blob/main/Metrics.ipynb)
 10. [Scaling-up - How to Size Clusters Correctly](https://github.com/AlisonJD/RTACourse/blob/main/Scaling_up.ipynb)
 11. [Main Takeaways](https://github.com/AlisonJD/RTACourse/blob/main/Main_Takeaways.ipynb)
-12. Example Datasets
+
+Example Datasets
 - [Tinybird Events](https://github.com/AlisonJD/RTACourse/blob/main/Tinybird_Events_Dataset.ipynb)
 - [Tinybird Products](https://github.com/AlisonJD/RTACourse/blob/main/Tinybird_Products_Dataset.ipynb)
 - [New YorkCity Taxi Trips](https://github.com/AlisonJD/RTACourse/blob/main/New_York_City_Taxi_Trip_Datasets.ipynb)
 - [ClickHouse Hits](https://github.com/AlisonJD/RTACourse/blob/main/ClickHouse_Hits.ipynb)
 - [ClickHouse Recipes](https://github.com/AlisonJD/RTACourse/blob/main/ClickHouse_Recipes.ipynb)
+
+[Tinybird CLI Guide](https://github.com/AlisonJD/RTACourse/blob/main/Tinybird_CLI_Guide.ipynb)
