@@ -1,7 +1,7 @@
 <a href="https://www.tinybird.co/" target="_parent"><img src="https://uploads-ssl.webflow.com/6048c50adefe73fe3bc6c51b/6048eb77ca9dde7b528e4354_Logo%20Navbar.svg" alt="Tinybird"/></a>
 
 # Principles of Real-Time Analytics Course
-## Javi Santana and the Tinybird team
+## Tinybird team
 
 0. [Why this course? The use case](https://github.com/AlisonJD/RTACourse/blob/main/00_Why_this_Course.ipynb)
 1. [Getting Started - How to Run the Notebooks in Google Colab and Tinybird](https://github.com/AlisonJD/RTACourse/blob/main/01_Getting_Started.ipynb)
