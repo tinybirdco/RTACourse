@@ -3,7 +3,9 @@
 # Principles of Real-Time Analytics Course
 ## Tinybird team
 
-0. [Why this course? The use case](https://github.com/AlisonJD/RTACourse/blob/main/00_Why_this_Course.ipynb)
+  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlisonJD/RTACourse/blob/main/01_Getting_Started.ipynb)
+
+0. [Why this course? The use case](https://github.com/AlisonJD/RTACourse/blob/main/00_Why_this_Course.ipynb) 
 1. [Getting Started - How to Run the Notebooks in Google Colab and Tinybird](https://github.com/AlisonJD/RTACourse/blob/main/01_Getting_Started.ipynb)
 2. [The Software - ClickHouse and Tinybird - and Hardware](https://github.com/AlisonJD/RTACourse/blob/main/02_Software_and_Hardware.ipynb)
 3. [Use the Right Database](https://github.com/AlisonJD/RTACourse/blob/main/03_Use_the_Right_Database.ipynb)
